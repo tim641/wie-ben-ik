@@ -1,0 +1,26 @@
+body { 
+background-color:  #ccffcc
+;
+
+ }
+
+p {
+	color: black;
+	text-align: left;
+}
+
+ img {
+	max-width:20%;
+	height: auto;
+	display: block;
+	margin: auto;
+
+}
+
+h2, p { 
+	font-size: 125%;
+}
+
+h1 {
+	font-size: 300%;
+}
